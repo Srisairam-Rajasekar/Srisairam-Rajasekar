@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Srisairam-Rajasekar
-- 👀 I’m interested in VBA
-- 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on VBA projects
+
 - 📫 Reach me by mail: prisriram6@gmail.com
 
 <!---
